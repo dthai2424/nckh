@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/nckh/static/css/main.a54def6d.css",
+    "main.js": "/nckh/static/js/main.cb9a1427.js",
+    "static/js/453.0f1a552b.chunk.js": "/nckh/static/js/453.0f1a552b.chunk.js",
+    "static/media/p8.png": "/nckh/static/media/p8.8dc6ab04bcfdb95eb294.png",
+    "static/media/p1.jpg": "/nckh/static/media/p1.31d3509deae2fc1dc81d.jpg",
+    "static/media/p3.png": "/nckh/static/media/p3.27ecb685b35d5b6cdf07.png",
+    "static/media/p9.png": "/nckh/static/media/p9.789e12faf3155073a897.png",
+    "static/media/p6.png": "/nckh/static/media/p6.48b4783e3a961e8a0c4d.png",
+    "static/media/p5.png": "/nckh/static/media/p5.96a78ad66498987b9b46.png",
+    "static/media/p2.jpg": "/nckh/static/media/p2.90b755f3c53985f4b83a.jpg",
+    "static/media/p4.png": "/nckh/static/media/p4.395ecd8a5623bd905f60.png",
+    "index.html": "/nckh/index.html",
+    "main.a54def6d.css.map": "/nckh/static/css/main.a54def6d.css.map",
+    "main.cb9a1427.js.map": "/nckh/static/js/main.cb9a1427.js.map",
+    "453.0f1a552b.chunk.js.map": "/nckh/static/js/453.0f1a552b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a54def6d.css",
+    "static/js/main.cb9a1427.js"
+  ]
+}
