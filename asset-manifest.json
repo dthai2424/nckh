@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/nckh/static/css/main.a54def6d.css",
-    "main.js": "/nckh/static/js/main.4feffbd6.js",
+    "main.css": "/nckh/static/css/main.c71f29a0.css",
+    "main.js": "/nckh/static/js/main.3f451fc1.js",
     "static/js/453.0f1a552b.chunk.js": "/nckh/static/js/453.0f1a552b.chunk.js",
     "static/media/p8.png": "/nckh/static/media/p8.8dc6ab04bcfdb95eb294.png",
     "static/media/p1.jpg": "/nckh/static/media/p1.31d3509deae2fc1dc81d.jpg",
@@ -12,12 +12,12 @@
     "static/media/p2.jpg": "/nckh/static/media/p2.90b755f3c53985f4b83a.jpg",
     "static/media/p4.png": "/nckh/static/media/p4.395ecd8a5623bd905f60.png",
     "index.html": "/nckh/index.html",
-    "main.a54def6d.css.map": "/nckh/static/css/main.a54def6d.css.map",
-    "main.4feffbd6.js.map": "/nckh/static/js/main.4feffbd6.js.map",
+    "main.c71f29a0.css.map": "/nckh/static/css/main.c71f29a0.css.map",
+    "main.3f451fc1.js.map": "/nckh/static/js/main.3f451fc1.js.map",
     "453.0f1a552b.chunk.js.map": "/nckh/static/js/453.0f1a552b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a54def6d.css",
-    "static/js/main.4feffbd6.js"
+    "static/css/main.c71f29a0.css",
+    "static/js/main.3f451fc1.js"
   ]
 }
